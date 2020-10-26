@@ -38,8 +38,6 @@ After replacing the 9th grade reading and math scores at Thomas High School with
 
 Overall, while it is always important to ensure that data being collected is accurate and not falsely reported, sometimes these minimal mistakes do not make a drastic impact on results. If this analysis were to be done on a smaller scale where they are looking at individual high schools instead of overall district reports, then the change would significantly impact Thomas High School’s academic performance. However, for this analysis specifically, changing the scores to reflect “Nan” will not influence conclusions drawn or decision making for this district. 
 
-
-
-
-
+    Caroline O'Connell
+    October 18th, 2020
 
